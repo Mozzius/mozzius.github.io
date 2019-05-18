@@ -289,6 +289,7 @@ body{
 }
 
 .about_section {
+    min-height:20px;
     font-size:18px;
     font-family: 'Questrial', sans-serif;
     margin:2vh 0px;
