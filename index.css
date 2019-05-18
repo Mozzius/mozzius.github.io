@@ -249,7 +249,7 @@ body{
     font-size:16px;
 }
 
-#about span a, #about span a:link:active, #about span a:visited:active {
+#about span a, #about span a:link, #about span a:visited {
     color:white;
 }
 
