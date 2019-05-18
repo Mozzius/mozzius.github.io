@@ -273,6 +273,7 @@ body{
     transition:0.4s ease-in-out;
     margin:2vh 0px;
     transform:scale(1);
+    backface-visibility: hidden;
 }
 
 #projects section:hover {
