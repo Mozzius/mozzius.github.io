@@ -249,6 +249,10 @@ body{
     font-size:16px;
 }
 
+#about span a, #about span a:link:active, #about span a:visited:active {
+    color:white;
+}
+
 #work {
     margin:2vh 0px;
     padding:4vh 0px !important;
